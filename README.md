@@ -34,10 +34,10 @@ All datasets were cleaned, transformed, and integrated into a relational model s
 - **Logistics & Fulfillment:** Delivery time, fulfillment cycle, perfect order rate, carrier performance
 
 ## Outcomes
-- **Full end-to-end supply chain visibility
-- **Identified cost-saving opportunities and operational bottlenecks
-- **Optimized supplier selection and inventory strategies
-- **Delivered remote-ready, actionable dashboards
+- Full end-to-end supply chain visibility
+- Identified cost-saving opportunities and operational bottlenecks
+- Optimized supplier selection and inventory strategies
+- Delivered remote-ready, actionable dashboards
 
 ## 📌 How to Use
 1. **Download the Excel file** from this repository (`End To End Procurement & Supply Chain Excel...`).
