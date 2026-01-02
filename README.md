@@ -28,10 +28,10 @@ Table	Purpose / Use
 All datasets were cleaned, transformed, and integrated into a relational model supporting dashboards and KPIs.
 
 ## Key KPIs & Insights
--**Supplier Performance:** On-time delivery, lead times, quality scores
--**Procurement Spend:** Total spend by supplier/category, trends
--**Inventory Management:** Stock levels, turnover, days of inventory
--**Logistics & Fulfillment:** Delivery time, fulfillment cycle, perfect order rate, carrier performance
+- **Supplier Performance:** On-time delivery, lead times, quality scores
+- **Procurement Spend:** Total spend by supplier/category, trends
+- **Inventory Management:** Stock levels, turnover, days of inventory
+- **Logistics & Fulfillment:** Delivery time, fulfillment cycle, perfect order rate, carrier performance
 
 ## Outcomes
 -Full end-to-end supply chain visibility
