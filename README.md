@@ -39,3 +39,11 @@ Identified cost-saving opportunities and operational bottlenecks
 Optimized supplier selection and inventory strategies
 Delivered remote-ready, actionable dashboards
 
+## 📌 How to Use
+1. **Download the Excel file** from this repository (`End To End Procurement & Supply Chain Excel...`).
+2. **Open the file in Excel** and enable content if prompted (macros, formulas, or Power Query).
+3. **Navigate through the dashboards** using slicers and filters to explore spend, supplier performance, and inventory metrics.
+4. **Review KPIs and visualizations** to identify cost-saving opportunities, supplier risks, and inventory inefficiencies.
+5. Use the insights to support **strategic decisions** in procurement, logistics, and fulfillment.
+
+
