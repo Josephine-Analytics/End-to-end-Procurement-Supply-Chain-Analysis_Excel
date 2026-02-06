@@ -20,6 +20,7 @@ Table	Purpose / Use
 - **Supplier Performance**	Precomputed KPIs. Benchmark supplier performance.
 
   **Impact & Relevance:**
+
 **SDG 2 – Zero Hunger**: Supporting efficient distribution of essential resources such as food supplies for humanitarian or public sector programs.
 
 **SDG 3 – Good Health and Well-Being**: Ensuring timely and reliable delivery of medical and essential goods.
@@ -27,10 +28,12 @@ Table	Purpose / Use
 **SDG 12 – Responsible Consumption and Production**: Promoting sustainable procurement practices and reducing waste in supply chains.
 
 ** SDG Outcome**
+
 The insights from this analysis help public sector organizations, NGOs, and operational teams make informed procurement decisions that enhance food security (SDG 2), 
 improve health outcomes (SDG 3), and promote sustainable resource use (SDG 12).
 
 ## Tools & Methodology
+
 - **Excel:** Analysis, pivot tables, KPI calculations, and visualization
 - **Power Query:** Data cleaning and transformation
 - **DAX (Advanced Excel):** Data modeling and calculations
@@ -39,18 +42,21 @@ improve health outcomes (SDG 3), and promote sustainable resource use (SDG 12).
 All datasets were cleaned, transformed, and integrated into a relational model supporting dashboards and KPIs.
 
 ## Key KPIs & Insights
+
 - **Supplier Performance:** On-time delivery, lead times, quality scores
 - **Procurement Spend:** Total spend by supplier/category, trends
 - **Inventory Management:** Stock levels, turnover, days of inventory
 - **Logistics & Fulfillment:** Delivery time, fulfillment cycle, perfect order rate, carrier performance
 
 ## Outcomes
+
 - Full end-to-end supply chain visibility
 - Identified cost-saving opportunities and operational bottlenecks
 - Optimized supplier selection and inventory strategies
 - Delivered remote-ready, actionable dashboards
 
 ## 📌 How to Use
+
 1. **Download the Excel file** from this repository (`End To End Procurement & Supply Chain Excel...`).
 2. **Open the file in Excel** and enable content if prompted (macros, formulas, or Power Query).
 3. **Navigate through the dashboards** using slicers and filters to explore spend, supplier performance, and inventory metrics.
