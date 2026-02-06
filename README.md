@@ -19,6 +19,17 @@ Table	Purpose / Use
 - **Fulfillment**	Links sales orders to shipments and status. Track shipped vs pending.
 - **Supplier Performance**	Precomputed KPIs. Benchmark supplier performance.
 
+  **Impact & Relevance:**
+**SDG 2 – Zero Hunger**: Supporting efficient distribution of essential resources such as food supplies for humanitarian or public sector programs.
+
+**SDG 3 – Good Health and Well-Being**: Ensuring timely and reliable delivery of medical and essential goods.
+
+**SDG 12 – Responsible Consumption and Production**: Promoting sustainable procurement practices and reducing waste in supply chains.
+
+** SDG Outcome**
+The insights from this analysis help public sector organizations, NGOs, and operational teams make informed procurement decisions that enhance food security (SDG 2), 
+improve health outcomes (SDG 3), and promote sustainable resource use (SDG 12).
+
 ## Tools & Methodology
 - **Excel:** Analysis, pivot tables, KPI calculations, and visualization
 - **Power Query:** Data cleaning and transformation
